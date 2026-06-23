@@ -12,7 +12,7 @@ Developed a healthcare solution that leverages data analytics and machine learni
 
 ### 🤖 Robo Nurse
 
-AI-based healthcare assistant for patient support, health monitoring, and basic medical guidance.
+AI-based virtual healthcare assistant for patient support and health monitoring.
 
 ### 🤖 TrendSage AI
 
